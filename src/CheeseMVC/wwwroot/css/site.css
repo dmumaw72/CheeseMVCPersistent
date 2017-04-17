@@ -36,3 +36,11 @@ textarea {
     display: none
   }
 }
+
+#add {
+    padding-right: 200px;
+}
+
+#remove {
+    padding-left: 200px;
+}
